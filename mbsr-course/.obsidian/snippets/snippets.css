@@ -1,0 +1,119 @@
+
+
+/* headings */
+/* from https://github.com/deathau/obsidian-snippets/blob/main/clutter-free-headings.css */
+
+.markdown-preview-view h1, .cm-header-1 { font-family: Arial, Helvetica, sans-serif; font-size: 1.5rem; color:#d64161; border-bottom:1px dotted #d64161;margin-top:20px;margin-bottom:20px;}
+.markdown-preview-view h2, .cm-header-2 { font-family: Arial, Helvetica, sans-serif; font-size: 1.3rem; color:#2c2828;margin-bottom:20px;}
+.markdown-preview-view h3, .cm-header-3 { font-family: Arial, Helvetica, sans-serif; font-size: 1.2rem; }
+.markdown-preview-view h4, .cm-header-4 { font-family: Arial, Helvetica, sans-serif; font-size: 1.1.rem; }
+.markdown-preview-view h5, .cm-header-5 { font-family: Arial, Helvetica, sans-serif; font-size: 1.05rem; }
+.markdown-preview-view h6, .cm-header-6 { font-family: Arial, Helvetica, sans-serif; font-size: 1rem; }
+
+.cm-formatting-header-1 { font-family: Arial, Helvetica, sans-serif; font-size: 2rem; }
+.cm-formatting-header-2 { font-family: Arial, Helvetica, sans-serif; font-size: 1.16rem; }
+.cm-formatting-header-3 { font-family: Arial, Helvetica, sans-serif; font-size: 0.83rem; }
+.cm-formatting-header-4 { font-family: Arial, Helvetica, sans-serif; font-size: 0.64rem; }
+.cm-formatting-header-5 { font-family: Arial, Helvetica, sans-serif; font-size: 0.52rem; }
+.cm-formatting-header-6 { font-family: Arial, Helvetica, sans-serif; font-size: 0.44rem; }
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header {
+  color: transparent !important;
+  background:none;
+}
+
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header::before {
+  display: inline-block;
+  white-space: nowrap;
+  word-wrap: none;
+  width:0;
+  overflow:visible;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-1::before {
+  content: 'H1';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-2::before {
+  content: 'H2';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-3::before {
+  content: 'H3';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-4::before {
+  content: 'H4';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-5::before {
+  content: 'H5';
+}
+div:not(.CodeMirror-activeline)>.CodeMirror-line span.cm-formatting-header-6::before {
+  content: 'H6';
+}
+
+
+/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */
+/* author: https://github.com/cannibalox & https://github.com/konhi */
+/* source: https://forum.obsidian.md/t/meta-post-common-css-hacks/1978/82 */
+
+/* Make preview popup bigger */
+
+.popover.hover-popover {
+  transform: scale(0.8); /* makes the content smaller */
+  max-height: 800px; /* was 300 */
+  min-height: 100px;
+  width: 500px; /* was 400 */
+}
+
+.popover.hover-popover .markdown-embed {
+  height: 800px;
+}
+
+
+/* call outs */
+/* via https://forum.obsidian.md/t/my-publish-css-incl-4-nifty-snippets/17056 */
+
+pre.language-co {
+border-radius: 10px;
+border: 1px solid rgba(255,255,255,0.03);
+padding: 10px 20px;
+position: relative;
+box-shadow: -10px -10px 30px rgba(255,255,255,0.05), 10px 10px 30px rgba(0,0,0,0.2);
+background-color: var(--background-primary-alt) !important;
+}
+
+code.language-co.is-loaded {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size:0.9rem;
+  white-space: normal;
+}
+
+
+/* Block quotes */
+
+/* for editor */
+.cm-quote {
+    color: var(--text-normal) !important;
+}
+
+/* for preview */
+.markdown-preview-view blockquote {
+    background-color: var(--background-primary-alt) !important;
+    border: 0px solid;
+    border-color: black !important;
+    border-left-width: 5px !important;
+    border-radius: 0 8px 8px 0;
+    color: black; 
+    font-size: 15px;
+    line-height: 1.5em;
+    margin: 0 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-style: italic;
+}
+
+/* Vertical centering of text in blockquote */
+blockquote {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

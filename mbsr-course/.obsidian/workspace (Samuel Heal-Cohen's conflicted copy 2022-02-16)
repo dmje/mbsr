@@ -1,0 +1,148 @@
+{
+  "main": {
+    "id": "f169491f68bd44c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7117232c020225c",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Images/stress-curve.excalidraw.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f861da0036715dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d1e5b235a3ebdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be41de45c7cd404",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aad2b694d54e9fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "stress",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7948ac18cb23f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3b3fb55f52ecd3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "a7047cd01bb101f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d91f18aaca7aab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841ba89bda87e7c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Images/stress-curve.excalidraw.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "25e71c59d1cc7ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "282dd0ccb231c919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Images/stress-curve.excalidraw.png"
+              }
+            }
+          },
+          {
+            "id": "83a313ee63305b33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 166,
+    "collapsed": true
+  },
+  "active": "b7117232c020225c",
+  "lastOpenFiles": [
+    "Images/stress-curve.excalidraw.png",
+    "Week 6/Home practice for Week Six.md",
+    "To Do.md",
+    "Misc ideas and thoughts.md",
+    "Quotes.md",
+    "Week 4/3- Step Breathing Space.md",
+    "Week 2/Home practice for Week Two.md",
+    "Images/the-path-of-mindfulness.excalidraw.excalidraw",
+    "Week 4/Home practice for Week Four.md",
+    "Images/the-path-of-mindfulness.excalidraw.png"
+  ]
+}

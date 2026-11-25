@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "f169491f68bd44c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "988617317d04c413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ead01281efc14a7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f861da0036715dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d1e5b235a3ebdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be41de45c7cd404",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6aad2b694d54e9fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "wendell",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7948ac18cb23f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "a40305a7ce0f5fcd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "c9bc492f67238bf0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3c63ddef6299fd4",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5
+  },
+  "right": {
+    "id": "a7047cd01bb101f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d91f18aaca7aab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841ba89bda87e7c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "25e71c59d1cc7ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "282dd0ccb231c919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "83a313ee63305b33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "1ead01281efc14a7",
+  "lastOpenFiles": [
+    "Course Workbook/Week 4/7. Home practice for Week Four.md",
+    "Course Workbook/Week 4/6. Farmer and Sage.md",
+    "Course Workbook/Week 4/3- Step Breathing Space.md",
+    "Course Workbook/Week 4/5. 3- Step Breathing Space.md",
+    "Course Workbook/Week 4/5. Farmer and Sage.md",
+    "Course Workbook/Week 4/Neurological Benefits of Mindfulness Practice.md",
+    "Course Workbook/Week 4/4. Neurological Benefits of Mindfulness Practice.md",
+    "Course Workbook/Week 4/The Benefits of Mindfulness Practice.md",
+    "Course Workbook/Week 4/3. Stress Thermometer.md",
+    "Course Workbook/Week 4/Stress Thermometer.md",
+    "Course Workbook/Week 4/2. The Neuroscience of Mindfulness.md",
+    "Course Workbook/Week 4/The Neuroscience of Mindfulness.md",
+    "Course Workbook/Week 4/Pleasant and Unpleasant Events.md",
+    "Course Workbook/Week 4/1. Pleasant and Unpleasant Events.md",
+    "Course Workbook/Week 2/Reducing stress.md",
+    "Teachers Notes/Week 2/Reducing stress.md",
+    "Course Workbook/Week 2/Responses to stress.md",
+    "Course Workbook/Week 2/We need to talk about stress.md",
+    "Course Workbook/Week 2/Common stressful things.md",
+    "Course Workbook/Week 2/Stress and the breath.md",
+    "Course Workbook/Week 1/7. Supporting your practice at home.md",
+    "Course Workbook/Week 1/6. Supporting your practice at home.md",
+    "Course Workbook/Week 1/6. Home practice for Week One.md",
+    "Course Workbook/Week 1/5. Home practice for Week One.md",
+    "Course Workbook/Week 1/Supporting your practice at home.md",
+    "Course Workbook/Week 1/4. Meditation and Mindfulness.md",
+    "Images/mindful-movement.mp3"
+  ]
+}

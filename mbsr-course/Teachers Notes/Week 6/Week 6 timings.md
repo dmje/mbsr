@@ -1,0 +1,12 @@
+125 minutes!!
+
+| Timings | Duration | Teaching and delivery notes                                                                                                                                                                                                 |
+| ------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         | 10       | Short sitting practice eg listening to sounds and inquiry                                                                                                                                                                   |
+|         | 15       | Review Home Practice (Daily Mindful Activity (different), Mind the Gap/STOP, Taking in the Good. Identifying how you communicate)                                                                                           |
+|         | 30       | How to work with suffering differently<br><br>Introduce, explain and demonstrate this using the story of the 2 arrows and your visual aids 1 and 2. Explore either as a whole group or in pairs, feeding back to the group. |
+|         | 35       | Sitting with the Breath & Inquiry – start with abdominal breathing.                                                                                                                                                         |
+|         | 10       | Qualities of Interpersonal Mindfulness                                                                                                                                                                                      |
+|         |          |                                                                                                                                                                                                                             |
+|         | 20       | Listening, communications exercise and inquiry- qualities of interpersonal mindfulness (visual aid 3.)                                                                                                                      |
+|         | 5        | Home Practice – Breath Meditation (5 of 7 min), communicating with awareness<br><br>A quote to share at the end to close session:<br><br><br><br>“You don’t have to like it you just have to do it!” Jon Kabat-Zinn         |

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0cd8707522a47cd3","x":-258,"y":-120,"width":250,"height":75,"type":"text","text":"Another thing"},
+		{"id":"775980841cb07d8a","x":-440,"y":-500,"width":250,"height":240,"type":"text","text":"- Thing one\n- Thing 2\n- 3\n- "}
+	],
+	"edges":[
+		{"id":"69272d2cab78ce8d","fromNode":"775980841cb07d8a","fromSide":"bottom","toNode":"0cd8707522a47cd3","toSide":"top"}
+	]
+}

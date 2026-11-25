@@ -1,0 +1,573 @@
+---
+
+excalidraw-plugin: parsed
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Source of threat
+
+(Deadline, danger, negative thought) ^tjTiUDqJ
+
+On the look out for danger
+
+
+Amygdala hardwired to notice danger and therefore notice the negative in life. ^4hLvfsXo
+
+Alarm Bell Signaled
+
+Amygdala (oldest evolutionary part of our brains, key noticing danger and the fear response, key to survival) sounds alarm bells. ^q4NCFeX0
+
+Emotions heightened
+
+As our awareness of the negative heightened emotional responses intensify. Fear and anger dominate. ^JZOMLjiC
+
+Cortisol triggers brain stem to increase activation of amygdala so it is more vigilant / alert to danger. SNS/HPAA system increased.
+
+Cortisol suppresses hippocampal activity (which inhibits amygdala) so amygdala more alert again.
+The cycle continues with greater fuel for the fire. ^ayPCFbcS
+
+Messages Relayed
+    The Thalamus (in mid-
+brain) sends signals to the brain stem to release norepinephrine or noreadrenalin
+(stress hormones) through brain. ^3qGtUjVf
+
+Heart rate increases
+Epinephrine increases heart rate so more blood can pump through body, ready for action. Enables pupil to dilate (so draw in more
+light –
+    
+   
+  SNS stimulated for action
+Stress hormones pump through blood stream. Body prepares to fight or flee.
+  
+ Pre -
+The negativit amygdala, co rational, plannin
+frontal Co
+rtex inhibited
+y / fear bias of
+mpromises the
+g part of our mind.
+           ^OnZ0DFd0
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"id": "Bwj8fKojGBvUY__pA4Qtn",
+			"type": "rectangle",
+			"x": 3.5648600260417425,
+			"y": -613.7151934305826,
+			"width": 236,
+			"height": 129.83425903320312,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1293001802,
+			"version": 131,
+			"versionNonce": 848519574,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "tjTiUDqJ"
+				}
+			],
+			"updated": 1645652700946,
+			"link": null
+		},
+		{
+			"id": "tjTiUDqJ",
+			"type": "text",
+			"x": 8.564860026041742,
+			"y": -596.7980639139811,
+			"width": 226,
+			"height": 96,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 361022794,
+			"version": 209,
+			"versionNonce": 1026161238,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1645652816449,
+			"link": null,
+			"text": "Source of threat\n\n(Deadline, danger, \nnegative thought)",
+			"rawText": "Source of threat\n\n(Deadline, danger, negative thought)",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 89,
+			"containerId": "Bwj8fKojGBvUY__pA4Qtn",
+			"originalText": "Source of threat\n\n(Deadline, danger, negative thought)"
+		},
+		{
+			"type": "rectangle",
+			"version": 267,
+			"versionNonce": 739577482,
+			"isDeleted": false,
+			"id": "FgobHUqEhylBpNs88RSs7",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -430.72328694661473,
+			"y": -397.2080841064453,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 301.5284627278645,
+			"height": 269.4939982096355,
+			"seed": 1888113110,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "4hLvfsXo",
+					"type": "text"
+				},
+				{
+					"type": "text",
+					"id": "4hLvfsXo"
+				}
+			],
+			"updated": 1645652735095,
+			"link": null
+		},
+		{
+			"type": "text",
+			"version": 315,
+			"versionNonce": 2118778378,
+			"isDeleted": false,
+			"id": "4hLvfsXo",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -425.72328694661473,
+			"y": -334.46108500162757,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 291.5284627278645,
+			"height": 144,
+			"seed": 1901911690,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1645652816452,
+			"link": null,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "On the look out for danger\n\n\nAmygdala hardwired to notice\ndanger and therefore notice \nthe negative in life.",
+			"rawText": "On the look out for danger\n\n\nAmygdala hardwired to notice danger and therefore notice the negative in life.",
+			"baseline": 137,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "FgobHUqEhylBpNs88RSs7",
+			"originalText": "On the look out for danger\n\n\nAmygdala hardwired to notice danger and therefore notice the negative in life."
+		},
+		{
+			"type": "rectangle",
+			"version": 214,
+			"versionNonce": 905839306,
+			"isDeleted": false,
+			"id": "jJmInf-nf5g97bSYK3toK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -31.485209147135265,
+			"y": -421.31458028157545,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 314.89729817708326,
+			"height": 272.958272298177,
+			"seed": 1016917130,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "q4NCFeX0",
+					"type": "text"
+				},
+				{
+					"type": "text",
+					"id": "q4NCFeX0"
+				}
+			],
+			"updated": 1645652703747,
+			"link": null
+		},
+		{
+			"type": "text",
+			"version": 299,
+			"versionNonce": 1642348438,
+			"isDeleted": false,
+			"id": "q4NCFeX0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -26.485209147135265,
+			"y": -368.83544413248694,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 304.89729817708326,
+			"height": 168,
+			"seed": 425556246,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1645652816455,
+			"link": null,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Alarm Bell Signaled\n\nAmygdala (oldest evolutionary \npart of our brains, key \nnoticing danger and the fear \nresponse, key to survival) \nsounds alarm bells.",
+			"rawText": "Alarm Bell Signaled\n\nAmygdala (oldest evolutionary part of our brains, key noticing danger and the fear response, key to survival) sounds alarm bells.",
+			"baseline": 161,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "jJmInf-nf5g97bSYK3toK",
+			"originalText": "Alarm Bell Signaled\n\nAmygdala (oldest evolutionary part of our brains, key noticing danger and the fear response, key to survival) sounds alarm bells."
+		},
+		{
+			"type": "rectangle",
+			"version": 291,
+			"versionNonce": 752910934,
+			"isDeleted": false,
+			"id": "oqE1BSH6_vDO5_wqU1aWa",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 476.03910319010413,
+			"y": -413.3305358886719,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 315,
+			"height": 272.958272298177,
+			"seed": 2027598730,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "JZOMLjiC",
+					"type": "text"
+				},
+				{
+					"id": "JZOMLjiC",
+					"type": "text"
+				},
+				{
+					"type": "text",
+					"id": "JZOMLjiC"
+				}
+			],
+			"updated": 1645652741168,
+			"link": null
+		},
+		{
+			"type": "text",
+			"version": 382,
+			"versionNonce": 1295101130,
+			"isDeleted": false,
+			"id": "JZOMLjiC",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 481.03910319010413,
+			"y": -348.85139973958337,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 305,
+			"height": 144,
+			"seed": 503554582,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1645652816459,
+			"link": null,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Emotions heightened\n\nAs our awareness of the \nnegative heightened emotional \nresponses intensify. Fear and \nanger dominate.",
+			"rawText": "Emotions heightened\n\nAs our awareness of the negative heightened emotional responses intensify. Fear and anger dominate.",
+			"baseline": 137,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "oqE1BSH6_vDO5_wqU1aWa",
+			"originalText": "Emotions heightened\n\nAs our awareness of the negative heightened emotional responses intensify. Fear and anger dominate."
+		},
+		{
+			"type": "rectangle",
+			"version": 311,
+			"versionNonce": 470832458,
+			"isDeleted": false,
+			"id": "IJF6XkT6sheFMhWs3gINK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 424.8924560546876,
+			"y": -19.039408365885265,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 366.96695963541674,
+			"height": 370.243672688802,
+			"seed": 1333939338,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "ayPCFbcS",
+					"type": "text"
+				},
+				{
+					"id": "ayPCFbcS",
+					"type": "text"
+				},
+				{
+					"type": "text",
+					"id": "ayPCFbcS"
+				}
+			],
+			"updated": 1645652709382,
+			"link": null
+		},
+		{
+			"type": "text",
+			"version": 402,
+			"versionNonce": 430169302,
+			"isDeleted": false,
+			"id": "ayPCFbcS",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 429.8924560546876,
+			"y": 34.08242797851574,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 356.96695963541674,
+			"height": 264,
+			"seed": 436082966,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1645652816463,
+			"link": null,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Cortisol triggers brain stem to \nincrease activation of amygdala so\nit is more vigilant / alert to \ndanger. SNS/HPAA system \nincreased.\n\nCortisol suppresses hippocampal \nactivity (which inhibits amygdala) so\namygdala more alert again.\nThe cycle continues with greater \nfuel for the fire.",
+			"rawText": "Cortisol triggers brain stem to increase activation of amygdala so it is more vigilant / alert to danger. SNS/HPAA system increased.\n\nCortisol suppresses hippocampal activity (which inhibits amygdala) so amygdala more alert again.\nThe cycle continues with greater fuel for the fire.",
+			"baseline": 257,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "IJF6XkT6sheFMhWs3gINK",
+			"originalText": "Cortisol triggers brain stem to increase activation of amygdala so it is more vigilant / alert to danger. SNS/HPAA system increased.\n\nCortisol suppresses hippocampal activity (which inhibits amygdala) so amygdala more alert again.\nThe cycle continues with greater fuel for the fire."
+		},
+		{
+			"type": "rectangle",
+			"version": 280,
+			"versionNonce": 1144155274,
+			"isDeleted": false,
+			"id": "yDgbvKpfew2UXQ-4DvV1H",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -58.66507975260413,
+			"y": -26.72210693359375,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 399.39473470052076,
+			"height": 272.958272298177,
+			"seed": 1666737366,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "3qGtUjVf",
+					"type": "text"
+				},
+				{
+					"id": "3qGtUjVf",
+					"type": "text"
+				},
+				{
+					"type": "text",
+					"id": "3qGtUjVf"
+				}
+			],
+			"updated": 1645652775492,
+			"link": null
+		},
+		{
+			"type": "text",
+			"version": 386,
+			"versionNonce": 682984330,
+			"isDeleted": false,
+			"id": "3qGtUjVf",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -53.66507975260413,
+			"y": 37.757029215494754,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 389.39473470052076,
+			"height": 144,
+			"seed": 1752005514,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1645652816466,
+			"link": null,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Messages Relayed\n    The Thalamus (in mid-\nbrain) sends signals to the brain stem \nto release norepinephrine or \nnoreadrenalin\n(stress hormones) through brain.",
+			"rawText": "Messages Relayed\n    The Thalamus (in mid-\nbrain) sends signals to the brain stem to release norepinephrine or noreadrenalin\n(stress hormones) through brain.",
+			"baseline": 137,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "yDgbvKpfew2UXQ-4DvV1H",
+			"originalText": "Messages Relayed\n    The Thalamus (in mid-\nbrain) sends signals to the brain stem to release norepinephrine or noreadrenalin\n(stress hormones) through brain."
+		},
+		{
+			"type": "rectangle",
+			"version": 310,
+			"versionNonce": 601437142,
+			"isDeleted": false,
+			"id": "iPKWujXcLorGf14e_oDsr",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -419.0892232259115,
+			"y": 134.53507486979186,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 302,
+			"height": 562,
+			"seed": 753177302,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [
+				{
+					"id": "OnZ0DFd0",
+					"type": "text"
+				},
+				{
+					"id": "OnZ0DFd0",
+					"type": "text"
+				},
+				{
+					"type": "text",
+					"id": "OnZ0DFd0"
+				}
+			],
+			"updated": 1645652827363,
+			"link": null
+		},
+		{
+			"type": "text",
+			"version": 362,
+			"versionNonce": 1110801302,
+			"isDeleted": false,
+			"id": "OnZ0DFd0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -414.0892232259115,
+			"y": 139.53507486979186,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 292,
+			"height": 552,
+			"seed": 1870867850,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1645652830065,
+			"link": null,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Heart rate increases\nEpinephrine increases heart \nrate so more blood can pump\nthrough body, ready for \naction. Enables pupil to \ndilate (so draw in more\nlight –\n    \n   \n  SNS stimulated for action\nStress hormones pump \nthrough blood stream. Body \nprepares to fight or flee.\n  \n Pre -\nThe negativit amygdala, co \nrational, plannin\nfrontal Co\nrtex inhibited\ny / fear bias of\nmpromises the\ng part of our mind.\n          ",
+			"rawText": "Heart rate increases\nEpinephrine increases heart rate so more blood can pump through body, ready for action. Enables pupil to dilate (so draw in more\nlight –\n    \n   \n  SNS stimulated for action\nStress hormones pump through blood stream. Body prepares to fight or flee.\n  \n Pre -\nThe negativit amygdala, co rational, plannin\nfrontal Co\nrtex inhibited\ny / fear bias of\nmpromises the\ng part of our mind.\n          ",
+			"baseline": 545,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "iPKWujXcLorGf14e_oDsr",
+			"originalText": "Heart rate increases\nEpinephrine increases heart rate so more blood can pump through body, ready for action. Enables pupil to dilate (so draw in more\nlight –\n    \n   \n  SNS stimulated for action\nStress hormones pump through blood stream. Body prepares to fight or flee.\n  \n Pre -\nThe negativit amygdala, co rational, plannin\nfrontal Co\nrtex inhibited\ny / fear bias of\nmpromises the\ng part of our mind.\n          "
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#c92a2a",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null
+	},
+	"files": {}
+}
+```
+%%

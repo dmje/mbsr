@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": true,
+  "promptDelete": false,
+  "fileSortOrder": "byCreatedTimeReverse",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "communityThemeSortOrder": "download",
+  "attachmentFolderPath": "Images",
+  "showInlineTitle": false
+}

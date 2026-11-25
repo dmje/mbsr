@@ -1,0 +1,100 @@
+---
+
+excalidraw-plugin: parsed
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Some kind of circle ^6HZhmtk9
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"type": "ellipse",
+			"version": 55,
+			"versionNonce": 186190116,
+			"isDeleted": false,
+			"id": "chpKiqUuUlXbcyOXdSgyq",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -167.59375,
+			"y": -458.65234375,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 325.58203125,
+			"height": 341.4296875,
+			"seed": 660759204,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1643368633512
+		},
+		{
+			"type": "text",
+			"version": 21,
+			"versionNonce": 291280924,
+			"isDeleted": false,
+			"id": "6HZhmtk9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -69.0625,
+			"y": -326.66796875,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 181,
+			"height": 25,
+			"seed": 364022556,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1643368637559,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Some kind of circle",
+			"rawText": "Some kind of circle",
+			"baseline": 17,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Some kind of circle"
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null
+	},
+	"files": {}
+}
+```
+%%

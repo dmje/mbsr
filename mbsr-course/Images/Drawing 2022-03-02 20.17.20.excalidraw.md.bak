@@ -1,0 +1,308 @@
+---
+
+excalidraw-plugin: parsed
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Psychological / Emotional ^m0v4x8B_3ekrDN8Tya-kk
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"id": "eie5uhM3NKK7aF5vVhRjp",
+			"type": "line",
+			"x": 77.21488952636722,
+			"y": 113.09583187103271,
+			"width": 225.86929321289062,
+			"height": 683.7175750732422,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "round",
+			"seed": 29693120,
+			"version": 1232,
+			"versionNonce": 1176499392,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1646252834378,
+			"link": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-59.86808776855469,
+					115.48194885253906
+				],
+				[
+					64.24629211425781,
+					188.23654174804688
+				],
+				[
+					166.00120544433594,
+					97.51052856445312
+				],
+				[
+					91.24038696289062,
+					-11.070404052734375
+				],
+				[
+					91.43898010253906,
+					-494.3608856201172
+				],
+				[
+					-2.1771240234375,
+					-495.4810333251953
+				],
+				[
+					0,
+					0
+				]
+			],
+			"lastCommittedPoint": [
+				-3.049163818359375,
+				-411.4674377441406
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "abTwZfNjgGb6JRHKFR9zj",
+			"type": "ellipse",
+			"x": 74.47967529296878,
+			"y": -429.5826578140259,
+			"width": 86.07879638671875,
+			"height": 153.63811492919922,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fa5252",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 1794099008,
+			"version": 322,
+			"versionNonce": 597079872,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1646252834378,
+			"link": null
+		},
+		{
+			"id": "5Y5pxplyAlPMvW2vqiBfR",
+			"type": "rectangle",
+			"x": 82.39675903320315,
+			"y": -303.8405466079712,
+			"width": 77.850341796875,
+			"height": 108.8199234008789,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 140084416,
+			"version": 286,
+			"versionNonce": 264461504,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1646252834378,
+			"link": null
+		},
+		{
+			"type": "rectangle",
+			"version": 344,
+			"versionNonce": 1178455872,
+			"isDeleted": false,
+			"id": "f8oWVMXqAcvDvRIbbgvqC",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 80.09193420410159,
+			"y": -191.3755464553833,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#fab005",
+			"width": 77.850341796875,
+			"height": 108.8199234008789,
+			"seed": 1049652416,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1646252834378,
+			"link": null
+		},
+		{
+			"type": "rectangle",
+			"version": 420,
+			"versionNonce": 549045440,
+			"isDeleted": false,
+			"id": "Xb7_n8mIajceBGwgzsgcX",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 79.13970947265628,
+			"y": -76.70860767364502,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#82c91e",
+			"width": 77.850341796875,
+			"height": 108.8199234008789,
+			"seed": 536061760,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1646252834378,
+			"link": null
+		},
+		{
+			"type": "rectangle",
+			"version": 540,
+			"versionNonce": 876734272,
+			"isDeleted": false,
+			"id": "gdef3nz1BThUjWR08h6Pk",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 83.36578369140628,
+			"y": 36.13154888153076,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#40c057",
+			"width": 77.850341796875,
+			"height": 83.01441192626956,
+			"seed": 357334848,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "sharp",
+			"boundElements": [],
+			"updated": 1646252834378,
+			"link": null
+		},
+		{
+			"id": "60m6mvMTz0LDW3ESVowV2",
+			"type": "ellipse",
+			"x": 36.87934875488284,
+			"y": 124.61225032806396,
+			"width": 163.26148986816406,
+			"height": 163.26148986816406,
+			"angle": 0,
+			"strokeColor": "#ffffff",
+			"backgroundColor": "#228be6",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [
+				"yCh2hLxw5TT-a2muCjs-A"
+			],
+			"strokeSharpness": "sharp",
+			"seed": 54242496,
+			"version": 283,
+			"versionNonce": 379792576,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1646252834378,
+			"link": null
+		},
+		{
+			"id": "m0v4x8B_3ekrDN8Tya-kk",
+			"type": "text",
+			"x": 226.69723510742188,
+			"y": -427.59867572784424,
+			"width": 841.9867279052726,
+			"height": 85.22132873535153,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#228be6",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1426319168,
+			"version": 166,
+			"versionNonce": 1712121024,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1646252841628,
+			"link": null,
+			"text": "Psychological / Emotional",
+			"rawText": "Psychological / Emotional",
+			"fontSize": 68.1770629882812,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 60.221328735351534,
+			"containerId": null,
+			"originalText": "Psychological / Emotional"
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "#228be6",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null
+	},
+	"files": {}
+}
+```
+%%

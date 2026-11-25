@@ -1,0 +1,1753 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"type": "rectangle",
+			"version": 133,
+			"versionNonce": 830916359,
+			"isDeleted": false,
+			"id": "Bwj8fKojGBvUY__pA4Qtn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3.5648600260417425,
+			"y": -613.7980639139811,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 236,
+			"height": 130,
+			"seed": 1293001802,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "tjTiUDqJ"
+				},
+				{
+					"id": "1dXtiTh3-DXfQE5936NVD",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185484470,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 213,
+			"versionNonce": 906454567,
+			"isDeleted": false,
+			"id": "tjTiUDqJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 30.064860026041742,
+			"y": -598.7980639139811,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 183,
+			"height": 100,
+			"seed": 361022794,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675184989411,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Source of threat\n\n(Deadline, danger, \nnegative thought)",
+			"rawText": "Source of threat\n\n(Deadline, danger, negative thought)",
+			"baseline": 93,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "Bwj8fKojGBvUY__pA4Qtn",
+			"originalText": "Source of threat\n\n(Deadline, danger, negative thought)"
+		},
+		{
+			"type": "rectangle",
+			"version": 270,
+			"versionNonce": 1145032553,
+			"isDeleted": false,
+			"id": "FgobHUqEhylBpNs88RSs7",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -430.9590555826825,
+			"y": -397.3521808442615,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 302,
+			"height": 270,
+			"seed": 1888113110,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "4hLvfsXo",
+					"type": "text"
+				}
+			],
+			"updated": 1675186009379,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 321,
+			"versionNonce": 2079717287,
+			"isDeleted": false,
+			"id": "4hLvfsXo",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -424.4590555826825,
+			"y": -337.3521808442615,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 289,
+			"height": 150,
+			"seed": 1901911690,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675186009379,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "On the look out for danger\n\n\nAmygdala hardwired to notice\ndanger and therefore notice \nthe negative in life.",
+			"rawText": "On the look out for danger\n\n\nAmygdala hardwired to notice danger and therefore notice the negative in life.",
+			"baseline": 143,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "FgobHUqEhylBpNs88RSs7",
+			"originalText": "On the look out for danger\n\n\nAmygdala hardwired to notice danger and therefore notice the negative in life."
+		},
+		{
+			"type": "rectangle",
+			"version": 226,
+			"versionNonce": 165518793,
+			"isDeleted": false,
+			"id": "jJmInf-nf5g97bSYK3toK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -31.485209147135265,
+			"y": -421.33544413248694,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 315,
+			"height": 273,
+			"seed": 1016917130,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "q4NCFeX0",
+					"type": "text"
+				},
+				{
+					"id": "1dXtiTh3-DXfQE5936NVD",
+					"type": "arrow"
+				},
+				{
+					"id": "l5Idm4lA4hwxf-ytVMSAu",
+					"type": "arrow"
+				},
+				{
+					"id": "sxzBxVI4q9GKU9d7tRFt8",
+					"type": "arrow"
+				},
+				{
+					"id": "JL5go-7DerGuNYBKu8TSn",
+					"type": "arrow"
+				},
+				{
+					"id": "0CYdOXYDegUxgJlaSlVhT",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185719733,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 305,
+			"versionNonce": 53191559,
+			"isDeleted": false,
+			"id": "q4NCFeX0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -25.985209147135265,
+			"y": -372.33544413248694,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 304,
+			"height": 175,
+			"seed": 425556246,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675184989421,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Alarm Bell Signaled\n\nAmygdala (oldest evolutionary \npart of our brains, key \nnoticing danger and the fear \nresponse, key to survival) \nsounds alarm bells.",
+			"rawText": "Alarm Bell Signaled\n\nAmygdala (oldest evolutionary part of our brains, key noticing danger and the fear response, key to survival) sounds alarm bells.",
+			"baseline": 168,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "jJmInf-nf5g97bSYK3toK",
+			"originalText": "Alarm Bell Signaled\n\nAmygdala (oldest evolutionary part of our brains, key noticing danger and the fear response, key to survival) sounds alarm bells."
+		},
+		{
+			"type": "rectangle",
+			"version": 354,
+			"versionNonce": 1144655559,
+			"isDeleted": false,
+			"id": "oqE1BSH6_vDO5_wqU1aWa",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 456.69354802911914,
+			"y": -581.1539214163115,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 315,
+			"height": 273,
+			"seed": 2027598730,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "JZOMLjiC",
+					"type": "text"
+				},
+				{
+					"id": "JL5go-7DerGuNYBKu8TSn",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185609592,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 447,
+			"versionNonce": 1061709097,
+			"isDeleted": false,
+			"id": "JZOMLjiC",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 464.69354802911914,
+			"y": -519.6539214163115,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 299,
+			"height": 150,
+			"seed": 503554582,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185609592,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Emotions heightened\n\nAs our awareness of the \nnegative heightened emotional \nresponses intensify. Fear and \nanger dominate.",
+			"rawText": "Emotions heightened\n\nAs our awareness of the negative heightened emotional responses intensify. Fear and anger dominate.",
+			"baseline": 143,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "oqE1BSH6_vDO5_wqU1aWa",
+			"originalText": "Emotions heightened\n\nAs our awareness of the negative heightened emotional responses intensify. Fear and anger dominate."
+		},
+		{
+			"type": "rectangle",
+			"version": 629,
+			"versionNonce": 602594343,
+			"isDeleted": false,
+			"id": "IJF6XkT6sheFMhWs3gINK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 466.52541612932384,
+			"y": -257.2249529046113,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 368,
+			"height": 360,
+			"seed": 1333939338,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "ayPCFbcS",
+					"type": "text"
+				},
+				{
+					"id": "sxzBxVI4q9GKU9d7tRFt8",
+					"type": "arrow"
+				},
+				{
+					"id": "g6Ap4IGPfJq247H1rCGk3",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185719733,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 919,
+			"versionNonce": 1134183559,
+			"isDeleted": false,
+			"id": "ayPCFbcS",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 475.02541612932384,
+			"y": -252.2249529046113,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 351,
+			"height": 350,
+			"seed": 436082966,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185608875,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Cortisol triggers brain stem to \nincrease activation of amygdala so\nit is more vigilant / alert to \ndanger. SNS/HPAA system \nincreased.\n\nRelease of cortisol and \nnorepinephrine suppresses activity in\nthe hippocampus and prefrontal \ncortex,  which usually inhibits \namygdala. Amygdala is now let off \nthe leash to act uninhibited.\nThe cycle continues with greater \nfuel for the fire.",
+			"rawText": "Cortisol triggers brain stem to increase activation of amygdala so it is more vigilant / alert to danger. SNS/HPAA system increased.\n\nRelease of cortisol and norepinephrine suppresses activity in the hippocampus and prefrontal cortex,  which usually inhibits amygdala. Amygdala is now let off the leash to act uninhibited.\nThe cycle continues with greater fuel for the fire.",
+			"baseline": 343,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "IJF6XkT6sheFMhWs3gINK",
+			"originalText": "Cortisol triggers brain stem to increase activation of amygdala so it is more vigilant / alert to danger. SNS/HPAA system increased.\n\nRelease of cortisol and norepinephrine suppresses activity in the hippocampus and prefrontal cortex,  which usually inhibits amygdala. Amygdala is now let off the leash to act uninhibited.\nThe cycle continues with greater fuel for the fire."
+		},
+		{
+			"type": "rectangle",
+			"version": 289,
+			"versionNonce": 1067630567,
+			"isDeleted": false,
+			"id": "yDgbvKpfew2UXQ-4DvV1H",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -59.03540593927562,
+			"y": -26.742970784505246,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 400,
+			"height": 273,
+			"seed": 1666737366,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "3qGtUjVf",
+					"type": "text"
+				},
+				{
+					"id": "l5Idm4lA4hwxf-ytVMSAu",
+					"type": "arrow"
+				},
+				{
+					"id": "nvcksNJ_zxVGUADe1ZsF-",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185580817,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 519,
+			"versionNonce": 303236361,
+			"isDeleted": false,
+			"id": "3qGtUjVf",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -53.03540593927562,
+			"y": -7.242970784505246,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 388,
+			"height": 234,
+			"seed": 1752005514,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185202725,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.06094633264011,
+			"fontFamily": 1,
+			"text": "Messages Relayed\n\n    Amygdala sends distress signal to \nHypothalamus (in mid-\nbrain) which activates SNS, sending \nsignals to the brain stem to release \nnorepinephrine or noreadrenalin\n(stress hormones) through the brain \nand body.",
+			"rawText": "Messages Relayed\n\n    Amygdala sends distress signal to Hypothalamus (in mid-\nbrain) which activates SNS, sending signals to the brain stem to release norepinephrine or noreadrenalin\n(stress hormones) through the brain and body.",
+			"baseline": 226,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "yDgbvKpfew2UXQ-4DvV1H",
+			"originalText": "Messages Relayed\n\n    Amygdala sends distress signal to Hypothalamus (in mid-\nbrain) which activates SNS, sending signals to the brain stem to release norepinephrine or noreadrenalin\n(stress hormones) through the brain and body."
+		},
+		{
+			"type": "rectangle",
+			"version": 502,
+			"versionNonce": 1568989385,
+			"isDeleted": false,
+			"id": "iPKWujXcLorGf14e_oDsr",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -487.3709171179571,
+			"y": 1.6245487097538671,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 302,
+			"height": 378,
+			"seed": 753177302,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "OnZ0DFd0",
+					"type": "text"
+				},
+				{
+					"id": "QNSIy064feWujQyOs1Jlc",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185537463,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 792,
+			"versionNonce": 1239806119,
+			"isDeleted": false,
+			"id": "OnZ0DFd0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -478.8709171179571,
+			"y": 65.62454870975387,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 285,
+			"height": 250,
+			"seed": 1870867850,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185308355,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Heart rate increases\nEpinephrine increases heart \nrate so more blood can pump\nthrough body, ready for \naction. \n  Increased heart rate \nallows stress hormones to \nflood through the blood \nstream. Body prepares to \nfight or flee.  ",
+			"rawText": "Heart rate increases\nEpinephrine increases heart rate so more blood can pump through body, ready for action. \n    \n   \n  Increased heart rate allows stress hormones to flood through the blood stream. Body prepares to fight or flee.  ",
+			"baseline": 243,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "iPKWujXcLorGf14e_oDsr",
+			"originalText": "Heart rate increases\nEpinephrine increases heart rate so more blood can pump through body, ready for action. \n    \n   \n  Increased heart rate allows stress hormones to flood through the blood stream. Body prepares to fight or flee.  "
+		},
+		{
+			"type": "rectangle",
+			"version": 600,
+			"versionNonce": 512087657,
+			"isDeleted": false,
+			"id": "ZORb2cHFeEnvs1jOyBwxU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 397.7674919262265,
+			"y": 393.5422139753373,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 368,
+			"height": 360,
+			"seed": 549974473,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "2NFVRCke"
+				},
+				{
+					"id": "I3Vrwu-KPAMhBMb0lMB3_",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185549124,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 899,
+			"versionNonce": 1048003783,
+			"isDeleted": false,
+			"id": "2NFVRCke",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 408.7674919262265,
+			"y": 473.5422139753373,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 346,
+			"height": 200,
+			"seed": 624929607,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185097805,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Prefrontal cortex inhibited by \nnorepinephrine, so unable to think \nrationally -\nThe negativity bias of amygdala \ndumps more and more negative \nmemories into the hippocampus, \ncolouring our view of the world as \nfearful, unpleasant. ",
+			"rawText": "Prefrontal cortex inhibited by norepinephrine, so unable to think rationally -\nThe negativity bias of amygdala dumps more and more negative memories into the hippocampus, colouring our view of the world as fearful, unpleasant. ",
+			"baseline": 193,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "ZORb2cHFeEnvs1jOyBwxU",
+			"originalText": "Prefrontal cortex inhibited by norepinephrine, so unable to think rationally -\nThe negativity bias of amygdala dumps more and more negative memories into the hippocampus, colouring our view of the world as fearful, unpleasant. "
+		},
+		{
+			"type": "rectangle",
+			"version": 459,
+			"versionNonce": 1199675657,
+			"isDeleted": false,
+			"id": "6Cq2S1LDHnxYc7QGYAAUd",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -28.27111110656915,
+			"y": 368.9813032256734,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 342,
+			"height": 235,
+			"seed": 273837063,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "lllSwXfU"
+				},
+				{
+					"id": "nvcksNJ_zxVGUADe1ZsF-",
+					"type": "arrow"
+				},
+				{
+					"id": "QNSIy064feWujQyOs1Jlc",
+					"type": "arrow"
+				},
+				{
+					"id": "I3Vrwu-KPAMhBMb0lMB3_",
+					"type": "arrow"
+				},
+				{
+					"id": "if8HZIZAqPRFPsoOCh88X",
+					"type": "arrow"
+				},
+				{
+					"id": "P92JFqP5ccjbw2sR8ui_k",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185703355,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 797,
+			"versionNonce": 1594227849,
+			"isDeleted": false,
+			"id": "lllSwXfU",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -19.77111110656915,
+			"y": 421.4813032256734,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 325,
+			"height": 130,
+			"seed": 627014633,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185237833,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.06094633264011,
+			"fontFamily": 1,
+			"text": "SNSS stimulated for action\n\nStress hormones pump through \nblood stream. Body prepares to \nfight or flee",
+			"rawText": "SNSS stimulated for action\n\nStress hormones pump through blood stream. Body prepares to fight or flee",
+			"baseline": 122,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "6Cq2S1LDHnxYc7QGYAAUd",
+			"originalText": "SNSS stimulated for action\n\nStress hormones pump through blood stream. Body prepares to fight or flee"
+		},
+		{
+			"type": "rectangle",
+			"version": 557,
+			"versionNonce": 1951743943,
+			"isDeleted": false,
+			"id": "dKJfu7nFakhO2jE3y2mXi",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 422.90629034939695,
+			"y": 808.8258522313549,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 412,
+			"height": 235,
+			"seed": 2043456647,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "wkny2weB"
+				},
+				{
+					"id": "lZOkwoiLnetgzsqlnPAYF",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185716514,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 996,
+			"versionNonce": 1065531303,
+			"isDeleted": false,
+			"id": "wkny2weB",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 445.40629034939695,
+			"y": 861.3258522313549,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 367,
+			"height": 130,
+			"seed": 1476887401,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185279888,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.06094633264011,
+			"fontFamily": 1,
+			"text": "Reproduction suppressed\n\nFertility is not a short term priority!\n\n",
+			"rawText": "Reproduction suppressed\n\nFertility is not a short term priority!\n\n",
+			"baseline": 122,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "dKJfu7nFakhO2jE3y2mXi",
+			"originalText": "Reproduction suppressed\n\nFertility is not a short term priority!\n\n"
+		},
+		{
+			"type": "rectangle",
+			"version": 601,
+			"versionNonce": 517418663,
+			"isDeleted": false,
+			"id": "rLcHtLszyc1cDTOwxW1U0",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -56.77569799103878,
+			"y": 813.4007146248207,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 412,
+			"height": 235,
+			"seed": 2028157513,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "vzaMNFap"
+				},
+				{
+					"id": "P92JFqP5ccjbw2sR8ui_k",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185706323,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1100,
+			"versionNonce": 1680698569,
+			"isDeleted": false,
+			"id": "vzaMNFap",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -31.275697991038783,
+			"y": 891.9007146248207,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 361,
+			"height": 78,
+			"seed": 1706764999,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185296181,
+			"link": null,
+			"locked": false,
+			"fontSize": 20.06094633264011,
+			"fontFamily": 1,
+			"text": "Digestion suppressed\n\nUnimportant for short-term survival!",
+			"rawText": "Digestion suppressed\n\nUnimportant for short-term survival!",
+			"baseline": 70,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "rLcHtLszyc1cDTOwxW1U0",
+			"originalText": "Digestion suppressed\n\nUnimportant for short-term survival!"
+		},
+		{
+			"type": "rectangle",
+			"version": 614,
+			"versionNonce": 96858471,
+			"isDeleted": false,
+			"id": "jwRlw6Er51L625kk6NEaG",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -494.500492321058,
+			"y": 419.7691820135516,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 302,
+			"height": 249,
+			"seed": 606867785,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Kfk25wey"
+				},
+				{
+					"id": "J4lNcH7lqGH1UKe5VSeit",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185525970,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1039,
+			"versionNonce": 1400499623,
+			"isDeleted": false,
+			"id": "Kfk25wey",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -487.000492321058,
+			"y": 469.2691820135516,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 287,
+			"height": 150,
+			"seed": 290407367,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185468209,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Muscles prepare for action\n\nNonrepinephrine sends blood \nto large muscles to prepare \nthem for action - ready to \nfight or flee",
+			"rawText": "Muscles prepare for action\n\nNonrepinephrine sends blood to large muscles to prepare them for action - ready to fight or flee",
+			"baseline": 143,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "jwRlw6Er51L625kk6NEaG",
+			"originalText": "Muscles prepare for action\n\nNonrepinephrine sends blood to large muscles to prepare them for action - ready to fight or flee"
+		},
+		{
+			"type": "rectangle",
+			"version": 761,
+			"versionNonce": 1110500167,
+			"isDeleted": false,
+			"id": "wK1El4pbbq_UaikCLBqN4",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -456.4056769801489,
+			"y": 722.9293234671504,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 302,
+			"height": 208,
+			"seed": 563436007,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "93cKnMe3"
+				},
+				{
+					"id": "MnmruO-Rx5xQ09l5wo8Te",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185722153,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 1303,
+			"versionNonce": 1364852809,
+			"isDeleted": false,
+			"id": "93cKnMe3",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -449.4056769801489,
+			"y": 764.4293234671504,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 288,
+			"height": 125,
+			"seed": 1886575625,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185469694,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Bronchioles in lungs dilate\n\nIncreases exchange of gases\n- so more energy available. \nBreathing becomes faster",
+			"rawText": "Bronchioles in lungs dilate\n\nIncreases exchange of gases - so more energy available. Breathing becomes faster",
+			"baseline": 118,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "wK1El4pbbq_UaikCLBqN4",
+			"originalText": "Bronchioles in lungs dilate\n\nIncreases exchange of gases - so more energy available. Breathing becomes faster"
+		},
+		{
+			"type": "arrow",
+			"version": 185,
+			"versionNonce": 429833225,
+			"isDeleted": false,
+			"id": "1dXtiTh3-DXfQE5936NVD",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 118.26741502529649,
+			"y": -482.7980639139811,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 5.175082118607747,
+			"height": 52.60591632289214,
+			"seed": 159106247,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012562,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "Bwj8fKojGBvUY__pA4Qtn",
+				"gap": 1,
+				"focus": 0.07870264377079172
+			},
+			"endBinding": {
+				"elementId": "jJmInf-nf5g97bSYK3toK",
+				"gap": 8.856703458601999,
+				"focus": 0.0686083892724102
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					5.175082118607747,
+					52.60591632289214
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 108,
+			"versionNonce": 23454439,
+			"isDeleted": false,
+			"id": "l5Idm4lA4hwxf-ytVMSAu",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 122.92406822581722,
+			"y": -143.87632209984827,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 2.551824396306756,
+			"height": 110.23596561316285,
+			"seed": 365424967,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012571,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jJmInf-nf5g97bSYK3toK",
+				"gap": 4.459122032638675,
+				"focus": 0.03954784845176706
+			},
+			"endBinding": {
+				"elementId": "yDgbvKpfew2UXQ-4DvV1H",
+				"gap": 6.897385702180145,
+				"focus": -0.059899800608678215
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					2.551824396306756,
+					110.23596561316285
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 359,
+			"versionNonce": 156672167,
+			"isDeleted": false,
+			"id": "sxzBxVI4q9GKU9d7tRFt8",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 465.08717060241065,
+			"y": -215.98314902719815,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 177.8227451695588,
+			"height": 6.388713062366861,
+			"seed": 124288999,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012567,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "IJF6XkT6sheFMhWs3gINK",
+				"gap": 1.4382455269131924,
+				"focus": 0.7078689273507697
+			},
+			"endBinding": {
+				"elementId": "jJmInf-nf5g97bSYK3toK",
+				"gap": 3.7496345799870596,
+				"focus": 0.398641449929915
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-177.8227451695588,
+					-6.388713062366861
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 90,
+			"versionNonce": 1777710951,
+			"isDeleted": false,
+			"id": "nvcksNJ_zxVGUADe1ZsF-",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 133.98363853831722,
+			"y": 254.73827233078623,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 0.5315607244317562,
+			"height": 108.18573922821975,
+			"seed": 1552644199,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012579,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "yDgbvKpfew2UXQ-4DvV1H",
+				"gap": 8.481243115291477,
+				"focus": 0.03833797531653589
+			},
+			"endBinding": {
+				"elementId": "6Cq2S1LDHnxYc7QGYAAUd",
+				"gap": 6.057291666667425,
+				"focus": -0.04433337662143022
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					0.5315607244317562,
+					108.18573922821975
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 259,
+			"versionNonce": 1770307111,
+			"isDeleted": false,
+			"id": "J4lNcH7lqGH1UKe5VSeit",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -27.937796471325584,
+			"y": 468.6615603372233,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 161.4313299005684,
+			"height": 75.53766424005715,
+			"seed": 792354535,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012587,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "jwRlw6Er51L625kk6NEaG",
+				"gap": 3.1313659491640635,
+				"focus": 0.3692003188537509
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-161.4313299005684,
+					75.53766424005715
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 303,
+			"versionNonce": 288895623,
+			"isDeleted": false,
+			"id": "QNSIy064feWujQyOs1Jlc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -27.92226024973465,
+			"y": 363.5231400010491,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 156.44865686822246,
+			"height": 181.153629866337,
+			"seed": 424149927,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012579,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6Cq2S1LDHnxYc7QGYAAUd",
+				"gap": 5.458163224624286,
+				"focus": -0.23657695473694568
+			},
+			"endBinding": {
+				"elementId": "iPKWujXcLorGf14e_oDsr",
+				"gap": 1,
+				"focus": -0.5064182201402316
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-156.44865686822246,
+					-181.153629866337
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 484,
+			"versionNonce": 482232743,
+			"isDeleted": false,
+			"id": "I3Vrwu-KPAMhBMb0lMB3_",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 316.027861080758,
+			"y": 486.2992408533218,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 80.45765269886357,
+			"height": 69.95738636363643,
+			"seed": 1559179241,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012580,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6Cq2S1LDHnxYc7QGYAAUd",
+				"gap": 2.298972187327138,
+				"focus": -0.5667685515988329
+			},
+			"endBinding": {
+				"elementId": "ZORb2cHFeEnvs1jOyBwxU",
+				"gap": 1.2819781466049562,
+				"focus": -0.42300424877872816
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					80.45765269886357,
+					69.95738636363643
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 257,
+			"versionNonce": 1204775303,
+			"isDeleted": false,
+			"id": "JL5go-7DerGuNYBKu8TSn",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 284.5147908528648,
+			"y": -310.5616224272559,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 153.12247482069614,
+			"height": 102.34927775608253,
+			"seed": 110678439,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012564,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jJmInf-nf5g97bSYK3toK",
+				"gap": 1,
+				"focus": 0.3317854309047513
+			},
+			"endBinding": {
+				"elementId": "oqE1BSH6_vDO5_wqU1aWa",
+				"gap": 19.05628235555821,
+				"focus": 0.35681792172924337
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					153.12247482069614,
+					-102.34927775608253
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 185,
+			"versionNonce": 2028457575,
+			"isDeleted": false,
+			"id": "0CYdOXYDegUxgJlaSlVhT",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -32.57147456081438,
+			"y": -296.065668000845,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 96.44719904119322,
+			"height": 18.848950935132677,
+			"seed": 989469545,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012562,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "jJmInf-nf5g97bSYK3toK",
+				"gap": 1.0862654136790866,
+				"focus": 0.2524092511811273
+			},
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-96.44719904119322,
+					18.848950935132677
+				]
+			]
+		},
+		{
+			"type": "rectangle",
+			"version": 445,
+			"versionNonce": 1178701993,
+			"isDeleted": false,
+			"id": "3BOMECP5u7kJxRu-RM1Lx",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 502.53603259608246,
+			"y": 147.110897508343,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 392,
+			"height": 213,
+			"seed": 513558791,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "Sop4H1TK"
+				},
+				{
+					"id": "g6Ap4IGPfJq247H1rCGk3",
+					"type": "arrow"
+				},
+				{
+					"id": "if8HZIZAqPRFPsoOCh88X",
+					"type": "arrow"
+				}
+			],
+			"updated": 1675185677215,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 666,
+			"versionNonce": 2140834439,
+			"isDeleted": false,
+			"id": "Sop4H1TK",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 515.5360325960825,
+			"y": 191.110897508343,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"width": 366,
+			"height": 125,
+			"seed": 1592651497,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1675185645117,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "Immune response lowered\n\nCortisol suppresses immune system - \nreduced inflammation and long-term \nhealth not a priority",
+			"rawText": "Immune response lowered\n\nCortisol suppresses immune system - reduced inflammation and long-term health not a priority",
+			"baseline": 118,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "3BOMECP5u7kJxRu-RM1Lx",
+			"originalText": "Immune response lowered\n\nCortisol suppresses immune system - reduced inflammation and long-term health not a priority"
+		},
+		{
+			"type": "arrow",
+			"version": 616,
+			"versionNonce": 1886288553,
+			"isDeleted": false,
+			"id": "g6Ap4IGPfJq247H1rCGk3",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 682.0214665919277,
+			"y": 144.0040453930078,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 24.183015351850145,
+			"height": 39.560673141675665,
+			"seed": 1614823,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012592,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "3BOMECP5u7kJxRu-RM1Lx",
+				"gap": 3.1068521153351867,
+				"focus": 0.19336070953392898
+			},
+			"endBinding": {
+				"elementId": "IJF6XkT6sheFMhWs3gINK",
+				"gap": 1.668325155943478,
+				"focus": 0.35281479426523177
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-24.183015351850145,
+					-39.560673141675665
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 619,
+			"versionNonce": 1073429897,
+			"isDeleted": false,
+			"id": "if8HZIZAqPRFPsoOCh88X",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 314.72888889343085,
+			"y": 484.91877225294513,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 183.1506593518551,
+			"height": 251.84843208021132,
+			"seed": 1458646183,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012592,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6Cq2S1LDHnxYc7QGYAAUd",
+				"gap": 1,
+				"focus": 0.6662676474825655
+			},
+			"endBinding": {
+				"elementId": "3BOMECP5u7kJxRu-RM1Lx",
+				"gap": 4.656484350796575,
+				"focus": 0.7884237292585666
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					183.1506593518551,
+					-251.84843208021132
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 515,
+			"versionNonce": 610590953,
+			"isDeleted": false,
+			"id": "P92JFqP5ccjbw2sR8ui_k",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 141.08352269988234,
+			"y": 605.4889197715593,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 3.471012510941364,
+			"height": 206.36652486376943,
+			"seed": 224511625,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012584,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6Cq2S1LDHnxYc7QGYAAUd",
+				"gap": 1.5076165458858668,
+				"focus": -0.0020598204813891906
+			},
+			"endBinding": {
+				"elementId": "rLcHtLszyc1cDTOwxW1U0",
+				"gap": 1.5452699894919988,
+				"focus": -0.06545981874702657
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-3.471012510941364,
+					206.36652486376943
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 510,
+			"versionNonce": 1998653961,
+			"isDeleted": false,
+			"id": "lZOkwoiLnetgzsqlnPAYF",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 310.0240263693903,
+			"y": 600.6224757907348,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 108.60599536074437,
+			"height": 209.30148358180963,
+			"seed": 1204970025,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012582,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "dKJfu7nFakhO2jE3y2mXi",
+				"gap": 4.276268619262282,
+				"focus": -0.5613940883592453
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					108.60599536074437,
+					209.30148358180963
+				]
+			]
+		},
+		{
+			"type": "arrow",
+			"version": 461,
+			"versionNonce": 1825233865,
+			"isDeleted": false,
+			"id": "MnmruO-Rx5xQ09l5wo8Te",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -24.63931850513643,
+			"y": 601.1806700378941,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 121.8407449920021,
+			"height": 122.3417371921314,
+			"seed": 1952397831,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1675186012589,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": {
+				"elementId": "wK1El4pbbq_UaikCLBqN4",
+				"gap": 7.925613483010352,
+				"focus": 0.21974799105053694
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-121.8407449920021,
+					122.3417371921314
+				]
+			]
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "center",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 1076.7679441482019,
+		"scrollY": 715.6451032160087,
+		"zoom": {
+			"value": 0.7000000000000001
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"colorPalette": {},
+		"currentStrokeOptions": null,
+		"previousGridSize": null
+	},
+	"prevTextMode": "parsed",
+	"files": {}
+}

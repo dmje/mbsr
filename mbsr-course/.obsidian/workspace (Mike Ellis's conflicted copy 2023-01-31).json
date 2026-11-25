@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "f169491f68bd44c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "191c71ae3609d478",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "084b19ce93408ee3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Images/Stress-cycle.excalidraw.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f861da0036715dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d1e5b235a3ebdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be41de45c7cd404",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "6aad2b694d54e9fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7948ac18cb23f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3a00163519dbcf9",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "a7047cd01bb101f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d91f18aaca7aab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25e71c59d1cc7ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "83a313ee63305b33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b1abc3bebbc8e4dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "282dd0ccb231c919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Images/Stress-cycle.excalidraw.excalidraw.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "56a91374896351c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841ba89bda87e7c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Images/Stress-cycle.excalidraw.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "floating": {
+    "id": "2b1a44dcc7cf51eb",
+    "type": "floating",
+    "children": [
+      {
+        "id": "df7c5df166b31fc5",
+        "type": "window",
+        "children": [
+          {
+            "id": "ecc49858b20a5ce7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "72abf8c8861803ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "To Do.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "35e07c1f22b7c4f2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Week 4/3- Step Breathing Space.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1318,
+        "y": 19,
+        "width": 1188,
+        "height": 1323,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "084b19ce93408ee3",
+  "lastOpenFiles": [
+    "Images/Kindness and discipline.excalidraw.md",
+    "Images/Stress-cycle.excalidraw.md",
+    "Week 6/The Two Arrows.md",
+    "To Do.md",
+    "Week 4/3- Step Breathing Space.md",
+    "Week 3/An introduction to the science behind stress and mindfulness.md",
+    "Images/Stress-cycle.excalidraw.excalidraw.md",
+    "Week 1/Practice Logs.md",
+    "Images/Stress-cycle.excalidraw.excalidraw",
+    "Week 1/Home practice for Week One.md"
+  ]
+}

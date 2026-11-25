@@ -1,0 +1,93 @@
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://excalidraw.com",
+	"elements": [
+		{
+			"id": "CXcTs_g93E8VfjoJ0m4Hc",
+			"type": "ellipse",
+			"x": -146.974609375,
+			"y": -260.8131160736084,
+			"width": 407.34429931640625,
+			"height": 410.64988708496094,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "#fd7e14",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 255734615,
+			"version": 112,
+			"versionNonce": 1822300919,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1648391521747,
+			"link": null
+		},
+		{
+			"id": "5zt3vCv4JqBLyhRdPL_D3",
+			"type": "line",
+			"x": -134.43084716796875,
+			"y": 19.224496841430664,
+			"width": 379.2945556640625,
+			"height": 0.89556884765625,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 523583159,
+			"version": 107,
+			"versionNonce": 32179127,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1648391488126,
+			"link": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					379.2945556640625,
+					-0.89556884765625
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#000000",
+		"currentItemBackgroundColor": "#fd7e14",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 0.5,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 0,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStrokeSharpness": "sharp",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemLinearStrokeSharpness": "round",
+		"gridSize": null,
+		"colorPalette": {}
+	},
+	"files": {}
+}

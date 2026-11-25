@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "f169491f68bd44c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5fbcfcf52ddf336",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "To Do.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f861da0036715dd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "96d1e5b235a3ebdd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1be41de45c7cd404",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6aad2b694d54e9fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7948ac18cb23f8ca",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d3b3fb55f52ecd3f",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270
+  },
+  "right": {
+    "id": "a7047cd01bb101f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d91f18aaca7aab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "841ba89bda87e7c9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "To Do.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "25e71c59d1cc7ed0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "282dd0ccb231c919",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "To Do.md"
+              }
+            }
+          },
+          {
+            "id": "83a313ee63305b33",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 166
+  },
+  "active": "b5fbcfcf52ddf336",
+  "lastOpenFiles": [
+    "Useful/Home.md",
+    "Useful/Misc useful ideas.md",
+    "Useful/Slide test.md",
+    "Transcripts/Body Scan.md",
+    "Supporting Materials/Informal Practice Log.md",
+    "Supporting Materials/Formal Practice Log.md",
+    "Week 5/Meditation is the training ground.md",
+    "Week 5/Taking in the Good.md",
+    "Week 6/Qualities and virtues of interpersonal Mindfulnes.md",
+    "Week 6/The Two Arrows.md"
+  ]
+}

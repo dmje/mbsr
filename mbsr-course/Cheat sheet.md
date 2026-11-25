@@ -1,0 +1,45 @@
+# Cheat sheet
+
+## Markdown / Obsidian
+
+- **Open a page**: CTRL-O and then start typing. Note the options at the bottom of the pane which let you also create a new page from this window
+	- As with browsers, if you click on an internal link in Obsidian it'll open that page - but if you want to keep your original page open too, just CTRL-click
+- **Search:**
+	- To search in an open window, just use CTRL-F
+	- To search the whole of the Obsidian vault, use SHIFT-CTRL-F 
+- **Toggle between edit and view**
+	- Even though Obsidian will do this automatically to a certain extent, it's useful to use the shortcut CTRL-E which flips between the editing view and the reading view
+- **Headings**: just use # then space then whatever words in the heading
+	- ```# Biggest Heading``` 
+	- ```## Smaller...``` 
+	- ```### Smaller... etc.``` 
+- **Bullets**: type "-" then space then whatever you need
+	- ```- thing``` 
+		- To indent, use the Tab key:
+			- and
+				- you
+					- can
+						- keep
+							- indenting
+	- To un-indent, use shift-Tab
+	- Note that you can "focus" into a bullet by clicking on it
+- **Bold**: easier to just highlight the word then use CTRL-B like you would in Word or whatever...
+	- But you can use the syntax if you like which is just two asterisks: ```**I am bold**``` 
+- **Italic**: easier to just highlight the word then use CTRL-I like you would in Word
+	- But you can use the syntax if you like which is a single asterisk: ```*I am italic*```
+- **Links**:
+	- For external links, ie to websites or whatever... 
+		- the easiest is to firstly type the word you want to link, then highlight it, use CTRL-K and then paste / type in the full URL
+		- But you can use the syntax if you like, which is ```[the word you want to link](https://thesiteyouwanttolinkto.com)``` - I find it helpful to remember "square peg, round hole" to remember the order of brackets :-)
+	- For internal links, ie to another page in Obsidian:
+		- Just type two square brackets and then start typing. Obsidian will auto complete and you can then select the page you want to link to
+		- If the page doesn't exist, Obsidian will give you the option to create it
+		- If you want to link to a page but not use it's title in the link, you can use this syntax: ```[[To Do|the title]]``` - so here, best method is to follow above instructions, then once the link is in place, move your cursor over it and manually add the pipe (|) symbol and the title. 
+	- Note that to **include** a page (as opposed to just linking to it), just add an exclamation mark before the link, like this: ```![[To Do]]``` 
+- **Images:** 
+	- To add an existing image:
+		- All images are kept in the *images* folder. So just open this up and drag the image from there onto the page
+	- To add a new image:
+		- Easiest is just to drag it into the page from your desktop
+	- To change image size:
+		- Add the image as above, then manually edit the syntax, adding a pipe (|) and then the width in pixels: ```![[earth-rise.png|100]]```  

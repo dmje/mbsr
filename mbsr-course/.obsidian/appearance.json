@@ -1,0 +1,12 @@
+{
+  "baseFontSize": 18,
+  "cssTheme": "",
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "snippets",
+    "clean-embeds"
+  ],
+  "accentColor": "#32309c",
+  "interfaceFontFamily": "Helvetica",
+  "showViewHeader": true
+}

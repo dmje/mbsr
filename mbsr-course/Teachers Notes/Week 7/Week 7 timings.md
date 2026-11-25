@@ -1,0 +1,9 @@
+| Timings | Duration | Teaching and delivery notes                                                                                                                                                |
+| ------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|         | 15       | Short sitting practice e.g., choiceless awareness and inquiry                                                                                                              |
+|         | 20       | Review Home Practice - Breath Meditation, communicating with awareness, awareness of what you are bringing into your body and retreat day if that has been facilitated yet |
+|         | 20       | Introduce, explain, and demonstrate sustainers and drainers. Explore as an activity either as a whole group or in pairs, feeding back to the group.                        |
+|         | 20       | The 10,000 Things exercise and inquiry.                                                                                                                                    |
+|         | 10       | Reading e.g., Planting lettuce and discussion around self- compassion and nurture                                                                                          |
+|         | 30       | Loving Kindness Practice and Inquiry.                                                                                                                                      |
+|         | 5        | Home Practice – Loving Kindness Practice or another of choice, MTG/STOP/Taking in the Good, Awareness of what you are bringing into your body.                             |
