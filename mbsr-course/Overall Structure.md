@@ -1,10 +1,14 @@
 # Workbook - overall structure
 
+## Before the course
+
+- [[Is this course right for me]]
 
 ## Week One
 
 - [[3. What is Mindfulness?]]
 - [[4. Meditation and Mindfulness]]
+- [[8. Meditation myths]]
 - [[2. How will this course help me]]
 - [[7. Supporting your practice at home]]
 - [[Returning to the breath]]
@@ -47,6 +51,8 @@
 - [[6. Mindful Relationships]]
 - [[7. Mindful Breathing]]
 - [[8. Troubleshooting]]
+- [[11. Working with difficult emotions]]
+- [[12. Awareness of thoughts and emotions]]
 - [[10. Meditation is the training ground]]
 - [[9. Home practice for Week Five]]
 
@@ -57,10 +63,17 @@
 - [[3. Compassionate Listening]]
 - [[4. Home practice for Week Six]]
 
+## Between Week Six and Week Seven
+
+- [[Half Day Retreat]]
+
 ## Week Seven
 
 - [[1. Sustainers and Drainers]]
 - [[2. The Path Of Mindfulness]]
+- [[5. Loving Kindness]]
+- [[6. The Mountain Practice]]
+- [[7. Choiceless Awareness]]
 - [[3. Home practice for Week Seven]]
 - [[4. Planting Lettuce]]
 
@@ -68,6 +81,7 @@
 
 - [[1. Sustaining a meditation practice]]
 - [[2. Retreat]]
+- [[3. The Eighth Week]]
 - [[How we can support you]]
 
 
@@ -75,17 +89,3 @@
 
 - [[The Two Rings]]
 - [[Walking Meditation]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
