@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course Workbook/Week 1/4. Meditation and Mindfulness.md",
+                "file": "Course Workbook/Week 5/10. Working with difficult emotions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Meditation and Mindfulness"
+              "title": "10. Working with difficult emotions"
             }
           }
         ]
@@ -40,7 +40,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -69,8 +72,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -79,7 +82,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -91,8 +97,8 @@
             "state": {
               "type": "mk-file-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "mk-file-view"
             }
           },
           {
@@ -111,16 +117,36 @@
             "state": {
               "type": "file-tree-view",
               "state": {},
-              "icon": "sheets-in-box",
-              "title": "File Tree"
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
+            }
+          },
+          {
+            "id": "07186023624ffa85",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "file-tree-view"
+            }
+          },
+          {
+            "id": "b5c555624bba9b22",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 817.3671875
   },
   "right": {
     "id": "a7047cd01bb101f8",
@@ -180,8 +206,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ],
@@ -194,25 +220,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "1be41de45c7cd404",
+  "active": "b5c555624bba9b22",
   "lastOpenFiles": [
+    "Course Workbook/Week 5/7. Mindful Breathing.md",
+    "Course Workbook/Week 5/8. Troubleshooting.md",
+    "Course Workbook/Week 5/9. Home practice for Week Five.md",
+    "Course Workbook/Week 5/10. Working with difficult emotions.md",
+    "Course Workbook/Week 5/11. Awareness of thoughts and emotions.md",
+    "Mistral Edits.md",
+    "Course Workbook/Week 1/4. Meditation and Mindfulness.md",
     "Exports/~$ll Workbook.docx",
     "Course Workbook/Week 1/1. Before we get started.md",
     "Test Compile.md",
-    "Course Workbook/Week 1/4. Meditation and Mindfulness.md",
     "Course Workbook/Week 1/4. Meditation and Mindfulness.baked.md",
     "Transcripts/Mindfulness of breathing.md",
     "Course Workbook/Week 2/6. Home practice for Week Two.md",
@@ -232,13 +265,8 @@
     "To Do.md",
     "Course Workbook/Week 3/3. STOP Practice.md",
     "Course Workbook/Week 3/2. An introduction to the science behind stress and mindfulness.md",
-    "Course Workbook/Week 4/6. Farmer and Sage.md",
-    "Course Workbook/Week 7/3. Home practice for Week Seven.md",
     "Teachers Notes/~$SR Session Outlines.docx",
     "Teachers Notes/MBSR Session Outlines.docx",
-    "Course Workbook/Week 8/2. Retreat.md",
-    "Course Workbook/Week 4/2. The Neuroscience of Mindfulness.md",
-    "Course Workbook/Week 3/5. Allow, Danna Faulds.md",
     "Course Workbook/Week 4/The Guest House",
     "Images/mindful-movement.mp3"
   ]

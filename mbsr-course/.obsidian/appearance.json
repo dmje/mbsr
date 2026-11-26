@@ -8,5 +8,6 @@
   ],
   "accentColor": "#32309c",
   "interfaceFontFamily": "Helvetica",
-  "showViewHeader": true
+  "showViewHeader": true,
+  "showRibbon": true
 }
