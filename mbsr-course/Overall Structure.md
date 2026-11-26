@@ -14,16 +14,10 @@ author: Mistral
 - [[2. How will this course help me]]
 - [[3. What is Mindfulness?]]
 - [[4. Meditation and Mindfulness]]
+- [[5. The Raisin Practice]]
 - [[6. Home practice for Week One]]
 - [[7. Supporting your practice at home]]
 - [[8. Meditation myths]]
-- [[Week 1 - Day 1]]
-- [[Week 1 - Day 2]]
-- [[Week 1 - Day 3]]
-- [[Week 1 - Day 4]]
-- [[Week 1 - Day 5]]
-- [[Week 1 - Day 6]]
-- [[Week 1 - Day 7]]
 
 ## Week 2
 
@@ -33,13 +27,6 @@ author: Mistral
 - [[4. Stress and the breath]]
 - [[5. Autobiography in Five Short Chapters]]
 - [[6. Home practice for Week Two]]
-- [[Week 2 - Day 1]]
-- [[Week 2 - Day 2]]
-- [[Week 2 - Day 3]]
-- [[Week 2 - Day 4]]
-- [[Week 2 - Day 5]]
-- [[Week 2 - Day 6]]
-- [[Week 2 - Day 7]]
 
 ## Week 3
 
@@ -48,13 +35,6 @@ author: Mistral
 - [[3. STOP Practice]]
 - [[4. Home practice for Week Three]]
 - [[5. Allow, Danna Faulds]]
-- [[Week 3 - Day 1]]
-- [[Week 3 - Day 2]]
-- [[Week 3 - Day 3]]
-- [[Week 3 - Day 4]]
-- [[Week 3 - Day 5]]
-- [[Week 3 - Day 6]]
-- [[Week 3 - Day 7]]
 
 ## Week 4
 
@@ -66,13 +46,6 @@ author: Mistral
 - [[6. Farmer and Sage]]
 - [[7. Home practice for Week Four]]
 - [[8. The Guest House]]
-- [[Week 4 - Day 1]]
-- [[Week 4 - Day 2]]
-- [[Week 4 - Day 3]]
-- [[Week 4 - Day 4]]
-- [[Week 4 - Day 5]]
-- [[Week 4 - Day 6]]
-- [[Week 4 - Day 7]]
 
 ## Week 5
 
@@ -85,15 +58,8 @@ author: Mistral
 - [[7. Mindful Breathing]]
 - [[8. Troubleshooting]]
 - [[9. Home practice for Week Five]]
-- [[11. Working with difficult emotions]]
-- [[12. Awareness of thoughts and emotions]]
-- [[Week 5 - Day 1]]
-- [[Week 5 - Day 2]]
-- [[Week 5 - Day 3]]
-- [[Week 5 - Day 4]]
-- [[Week 5 - Day 5]]
-- [[Week 5 - Day 6]]
-- [[Week 5 - Day 7]]
+- [[10. Working with difficult emotions]]
+- [[11. Awareness of thoughts and emotions]]
 
 ## Week 6
 
@@ -101,13 +67,6 @@ author: Mistral
 - [[2. Qualities and virtues of interpersonal Mindfulnes]]
 - [[3. Compassionate Listening]]
 - [[4. Home practice for Week Six]]
-- [[Week 6 - Day 1]]
-- [[Week 6 - Day 2]]
-- [[Week 6 - Day 3]]
-- [[Week 6 - Day 4]]
-- [[Week 6 - Day 5]]
-- [[Week 6 - Day 6]]
-- [[Week 6 - Day 7]]
 
 # Between Week Six and Week Seven
 
@@ -122,26 +81,12 @@ author: Mistral
 - [[5. Loving Kindness]]
 - [[6. The Mountain Practice]]
 - [[7. Choiceless Awareness]]
-- [[Week 7 - Day 1]]
-- [[Week 7 - Day 2]]
-- [[Week 7 - Day 3]]
-- [[Week 7 - Day 4]]
-- [[Week 7 - Day 5]]
-- [[Week 7 - Day 6]]
-- [[Week 7 - Day 7]]
 
 ## Week 8
 
 - [[1. Sustaining a meditation practice]]
 - [[2. Retreat]]
 - [[3. The Eighth Week]]
-- [[Week 8 - Day 1]]
-- [[Week 8 - Day 2]]
-- [[Week 8 - Day 3]]
-- [[Week 8 - Day 4]]
-- [[Week 8 - Day 5]]
-- [[Week 8 - Day 6]]
-- [[Week 8 - Day 7]]
 
 # Practices
 
