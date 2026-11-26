@@ -6,7 +6,7 @@ import { marked } from 'marked';
 const VAULT = path.resolve(process.cwd(), '..', 'mbsr-course');
 const OUT = path.resolve(process.cwd(), 'dist');
 
-const EXCLUDE_DIRS = new Set(['.obsidian', '.trash', 'Exports', 'Useful', 'Misc Notes', 'Teachers Notes', 'Audio']);
+const EXCLUDE_DIRS = new Set(['.obsidian', '.trash', 'Exports', 'Useful', 'Misc Notes', 'Teachers Notes', 'Audio', 'Images']);
 const EXCLUDE_FILES = new Set(['To Do.md', 'Cheat sheet.md', 'Test Compile.md', 'Mistral Edits.md', 'Full Workbook.md', 'Experience.md']);
 
 marked.setOptions({ gfm: true, breaks: false });
